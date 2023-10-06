@@ -2588,10 +2588,6 @@
         "category": "Error",
         "code": 2544
     },
-    "A mixin class must have a constructor with a single rest parameter of type 'any[]'.": {
-        "category": "Error",
-        "code": 2545
-    },
     "The type returned by the '{0}()' method of an async iterator must be a promise for a type with a 'value' property.": {
         "category": "Error",
         "code": 2547
